@@ -7,6 +7,7 @@
 
 :ocean:h520115h@mails.cc.ehime-u.ac.jp
 
+:octopus:Py
 ## Achievement
 
 ### 2022

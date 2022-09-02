@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+:bowtie:
 <!--
 **Lemond-sp/Lemond-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -11,7 +11,9 @@
 ## Achievement
 
 ### 2022
-1.NLP若手の会(YANS)第17回シンポジウム(2022)ハッカソン リーダーボード1位・最終評価1位・Applied Scientist賞(Amazon Web Service Japan LLC.)
+1.NLP若手の会(YANS)第17回シンポジウム(2022)-hackathon-teamA-Natural-
+
+リーダーボード1位・最終評価1位・Applied Scientist賞(Amazon Web Service Japan LLC.)
 ### 2021
 1.愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次)
 

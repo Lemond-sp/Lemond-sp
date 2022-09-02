@@ -1,11 +1,17 @@
-### Hi there 👋
-
+## Introduction
 :neckbeard:Leon Kajikawa (梶川怜恩)
+
 :school_satchel:Ehime univ Comput.Sci B3
+
 :microscope:Ninomiya-Lab @NLP.NLU
+
 :ocean:h520115h@mails.cc.ehime-u.ac.jp
 
-achievement
+## Achievement
+
+### 2022
+
+### 2021
 
 [![LEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemond-sp&theme=vue-dark&show_icons=true)](https://github.com/Lemond-sp/github-readme-stats)
 

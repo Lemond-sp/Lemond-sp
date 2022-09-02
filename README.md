@@ -1,7 +1,7 @@
 # Introduction
-### :neckbeard:Leon Kajikawa (梶川怜恩)
+### :turtle:Leon Kajikawa (梶川怜恩)
 
-:turtle:Ehime univ Comput.Sci B3
+:apple:Ehime univ Comput.Sci B3
 
 :microscope:Ninomiya-Lab @NLP.NLU
 

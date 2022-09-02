@@ -11,11 +11,12 @@
 # Achievement
 
 ### 2022
-1.NLP若手の会(YANS)第17回シンポジウム(2022)-hackathon-teamA-Natural-
+#### 1.NLP若手の会(YANS)第17回シンポジウム(2022)-hackathon-teamA-Natural-
 
-:trophy:リーダーボード1位・最終評価1位・Applied Scientist賞(Amazon Web Service Japan LLC.)
+#### :trophy:リーダーボード1位・最終評価1位・Applied Scientist賞(Amazon Web Service Japan LLC.)
 
-2.愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次)
+#### 2.愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次)
+
 
 [![LEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemond-sp&theme=vue-dark&show_icons=true)](https://github.com/Lemond-sp/github-readme-stats)
 

@@ -1,5 +1,5 @@
-## Introduction
-:neckbeard:Leon Kajikawa (梶川怜恩)
+# Introduction
+### :neckbeard:Leon Kajikawa (梶川怜恩)
 
 :school_satchel:Ehime univ Comput.Sci B3
 
@@ -8,7 +8,7 @@
 :ocean:h520115h@mails.cc.ehime-u.ac.jp
 
 :octopus:Python C++ C Racket
-## Achievement
+# Achievement
 
 ### 2022
 1.NLP若手の会(YANS)第17回シンポジウム(2022)-hackathon-teamA-Natural-

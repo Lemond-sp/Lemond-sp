@@ -1,3 +1,6 @@
+[![Twitter: kLeon496](https://img.shields.io/twitter/follow/kLeon496?style=social)](https://twitter.com/kLeon496)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Lemond-sp&left_color=gray&right_color=blue)
+
 # Introduction
 ### :turtle:Leon Kajikawa (梶川怜恩)
 

@@ -18,9 +18,9 @@
 #### 2.愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次)
 
 
-[![LEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemond-sp&theme=vue-dark&show_icons=true)](https://github.com/Lemond-sp/github-readme-stats)
+[![LEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemond-sp&theme=vue-dark&show_icons=true)](https://github.com/Lemond-sp/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemond-sp&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Lemond-sp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemond-sp&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Lemond-sp/)
 
 <!--
 **Lemond-sp/Lemond-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

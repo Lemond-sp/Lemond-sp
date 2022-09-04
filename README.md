@@ -27,7 +27,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 こん
+- 🔭 こんに
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...a
 - 🤔 I’m looking for help with ...

@@ -1,4 +1,3 @@
-[![Twitter: kLeon496](https://img.shields.io/twitter/follow/kLeon496?style=social)](https://twitter.com/kLeon496)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Lemond-sp&left_color=gray&right_color=blue)
 
 # Introduction
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 [![LEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemond-sp&theme=vue-dark&show_icons=true)](https://github.com/Lemond-sp/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemond-sp&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Lemond-sp/)
-
+[![Twitter: kLeon496](https://img.shields.io/twitter/follow/kLeon496?style=social)](https://twitter.com/kLeon496)
 - 🔭 こんに
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...a

@@ -5,7 +5,7 @@
 
 :apple:Ehime univ Comput.Sci B3
 
-:microscope:Ninomiya-Lab @NLP.NLU
+:microscope:Ninomiya-Lab @NLP.NLU(https://sites.google.com/view/ehime-nlp/)
 
 :ocean:h520115h@mails.cc.ehime-u.ac.jp
 

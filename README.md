@@ -9,7 +9,7 @@
 
 :ocean:h520115h@mails.cc.ehime-u.ac.jp
 
-:octopus:Python C++ C Racket
+:octopus:Python C++ C Racket(Rust やってみたい)
 # Achievement
 
 ### 2022

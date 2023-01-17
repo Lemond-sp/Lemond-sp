@@ -7,7 +7,7 @@
 
 :microscope:Ninomiya-Lab @NLP.NLU(https://sites.google.com/view/ehime-nlp/)
 
-:ocean:h520115h@mails.cc.ehime-u.ac.jp
+:ocean:reon@ai.ac.ehime-u.ac.jp
 
 :octopus:Python C++ C Racket(Rust やってみたい)
 # Achievement

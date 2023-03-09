@@ -9,7 +9,7 @@
 
 :ocean:reon@ai.ac.ehime-u.ac.jp
 
-:octopus:Python C++ C Racket(Rust やってみたい)
+:octopus:Python C++ C Racket
 # Achievement
 
 ### 2022

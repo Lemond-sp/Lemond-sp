@@ -1,5 +1,3 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Lemond-sp&left_color=gray&right_color=blue)
-
 # Introduction
 ### :turtle:Leon Kajikawa (梶川怜恩)
 

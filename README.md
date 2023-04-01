@@ -1,7 +1,7 @@
 # Introduction
 ### :turtle:Leon Kajikawa (梶川怜恩)
 
-:apple:Ehime univ Comput.Sci B4(2023.04~)
+:apple:Ehime univ Comput.Sci B4
 
 :microscope:Ninomiya-Lab @NLP(https://sites.google.com/view/ehime-nlp/)
 

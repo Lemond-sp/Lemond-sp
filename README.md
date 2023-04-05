@@ -3,7 +3,7 @@
 
 :apple:Ehime univ Comput.Sci B4
 
-:microscope:Ninomiya-Lab @NLP(https://sites.google.com/view/ehime-nlp/)
+:microscope:[Ninomiya-Lab @NLP](https://sites.google.com/view/ehime-nlp/)
 
 :ocean:reon@ai.ac.ehime-u.ac.jp
 

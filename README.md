@@ -8,7 +8,14 @@
 :ocean:reon@ai.ac.ehime-u.ac.jp
 
 :octopus:Python C++ C Racket
+
+# Publications
+### 2023
+
 # Achievement
+
+### 2023
+#### 1.愛媛大学工学部工学科コンピュータ科学コース優秀学生(3 年次)
 
 ### 2022
 #### 1.NLP若手の会(YANS)第17回シンポジウム(2022)-hackathon-teamA-Natural-

@@ -24,7 +24,9 @@
 
 #### 2. 愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次)
 
-
+# Activity
+### 2022.04~2023.06
+#### 愛媛大学 学生による調査・研究プロジェクト（プロジェクトE）「SNSでの投稿履歴から見える相手の気持ち」
 <!--
 **Lemond-sp/Lemond-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

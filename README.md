@@ -22,7 +22,7 @@ FIT2023 第22回情報科学技術フォーラム
 ### 2022
 #### 1. NLP若手の会(YANS)第17回シンポジウム(2022)-hackathon-teamA-Natural-
 
-#### :trophy:リーダーボード1位・最終評価1位・Applied Scientist賞(Amazon Web Service Japan LLC.)[link](https://yans.anlp.jp/entry/yans2022report)
+#### :trophy:リーダーボード1位・最終評価1位・Applied Scientist賞(Amazon Web Service Japan LLC.)[[link](https://yans.anlp.jp/entry/yans2022report)]
 
 #### 2. 愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次)
 

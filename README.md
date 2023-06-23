@@ -1,5 +1,5 @@
 # Introduction
-### :turtle:Leon Kajikawa (梶川怜恩)
+### :turtle:Reon Kajikawa (梶川怜恩)
 
 :apple:Ehime univ Comput.Sci B4
 

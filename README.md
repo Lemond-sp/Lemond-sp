@@ -28,7 +28,7 @@ FIT2023 第22回情報科学技術フォーラム
 
 # Activity
 ### 2022.04~2023.06
-#### - 愛媛大学 学生による調査・研究プロジェクト（プロジェクトE）「SNSでの投稿履歴から見える相手の気持ち」
+#### - 愛媛大学 学生による調査・研究プロジェクト（プロジェクトE）「SNSでの投稿履歴から見える相手の気持ち」[[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
 <!--
 **Lemond-sp/Lemond-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

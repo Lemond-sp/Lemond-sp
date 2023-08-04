@@ -10,8 +10,8 @@
 :octopus:Python PyTorch C Racket
 
 # Research Interest
-- NLProc
-- Representation Learning
+#### ・ NLProc
+#### ・ Representation Learning
 
 # Publication
 ### 2023/09

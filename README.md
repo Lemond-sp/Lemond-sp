@@ -7,9 +7,13 @@
 
 :ocean:reon@ai.ac.ehime-u.ac.jp
 
-:octopus:Python C++ C Racket
+:octopus:Python PyTorch C Racket
 
-# Publications
+# Research Interest
+- NLProc
+- Representation Learning
+
+# Publication
 ### 2023/09
 FIT2023 第22回情報科学技術フォーラム 
 #### スタイル変換による雑談対話システムへのキャラクタ性の付与 [to appear]

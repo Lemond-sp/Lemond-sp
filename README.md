@@ -9,9 +9,11 @@
 
 :octopus:Python PyTorch C Racket
 
-# Research Interest
+# Research ＆ Interest
 #### ・ NLProc
 #### ・ Representation Learning
+#### ・ Dialogue System
+#### ・ Sentiment Analysis
 
 # Publication
 ### 2023/09

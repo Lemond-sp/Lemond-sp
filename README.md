@@ -1,19 +1,19 @@
 ## Introduction
-### :turtle:Reon Kajikawa (梶川怜恩)
+:mortar_board:梶川 怜恩 (Reon Kajikawa)
 
-:apple:Ehime univ Comput.Sci B4
+🖥️愛媛大学 工学部 コンピュータ科学 B4
 
-:microscope:[Ninomiya-Lab @NLP](https://sites.google.com/view/ehime-nlp/)
+:microscope:[人工知能研究室 自然言語処理グループ](https://sites.google.com/view/ehime-nlp/)
 
-:ocean:reon@ai.ac.ehime-u.ac.jp
+:postbox:reon@ai.ac.ehime-u.ac.jp
 
-:octopus:Python PyTorch C Racket
+:bug:Python PyTorch C Racket
 
 ## Research ＆ Interest
 - NLProc
-- Representation Learning
-- Dialogue System
-- Sentiment Analysis
+- 表現学習
+- 対話システム
+- 感情分析
 
 ## Publication
 ## Domestic Conference
@@ -35,7 +35,7 @@ NLP若手の会第18回シンポジウム, August 2023. [to appear] <!-- \[[PDF]
 #### 1. 愛媛大学工学部工学科コンピュータ科学コース優秀学生(3 年次)
 
 ### 2022
-#### 1. NLP若手の会第17回シンポジウム(2022)-hackathon-teamA-Natural-
+#### 1. NLP若手の会第17回シンポジウム(2022)-ハッカソン部門-teamA-Natural-
 
 #### :trophy:リーダーボード1位・最終評価1位・Applied Scientist賞(Amazon Web Service Japan LLC.)[[link](https://yans.anlp.jp/entry/yans2022report)]
 

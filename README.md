@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 ### :turtle:Reon Kajikawa (梶川怜恩)
 
 :apple:Ehime univ Comput.Sci B4
@@ -9,27 +9,27 @@
 
 :octopus:Python PyTorch C Racket
 
-# Research ＆ Interest
-#### ・ NLProc
-#### ・ Representation Learning
-#### ・ Dialogue System
-#### ・ Sentiment Analysis
+## Research ＆ Interest
+- NLProc
+- Representation Learning
+- Dialogue System
+- Sentiment Analysis
 
-# Publication
-# Domestic Conference
-### 2023/09
-FIT2023 第22回情報科学技術フォーラム 
-#### スタイル変換による雑談対話システムへのキャラクタ性の付与 [to appear]
-近藤 里咲, **梶川怜恩**, 梶原 智之, 二宮 崇
+## Publication
+## Domestic Conference
+- 近藤 里咲, **梶川怜恩**, 梶原 智之, 二宮 崇. <br>
+スタイル変換による雑談対話システムへのキャラクタ性の付与. <br>
+第22回情報科学技術フォーラム（FIT2023）, September 2023. [to appear] <!-- \[[PDF](URL)\] -->
 
-### 2023/08<br>
-NLP若手の会第18回シンポジウム
-#### [S3-P09] マルチソース入力を用いた多言語文符号化器による感情分析 [to appear]
-**梶川怜恩**, 梶原智之
-#### [S4-P13] 雑談対話にキャラクタ性を付与するためのスタイル変換 [to appear]
-近藤 里咲, **梶川怜恩**, 梶原 智之, 二宮 崇
+- **梶川怜恩**, 梶原智之. <br>
+[S3-P09] マルチソース入力を用いた多言語文符号化器による感情分析. <br>
+NLP若手の会第18回シンポジウム, August 2023. [to appear] <!-- \[[PDF](URL)\] -->
 
-# Achievement
+- 近藤 里咲, **梶川怜恩**, 梶原 智之, 二宮 崇. <br>
+[S4-P13] 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
+NLP若手の会第18回シンポジウム, August 2023. [to appear] <!-- \[[PDF](URL)\] -->
+
+## Achievement
 
 ### 2023
 #### 1. 愛媛大学工学部工学科コンピュータ科学コース優秀学生(3 年次)
@@ -41,7 +41,7 @@ NLP若手の会第18回シンポジウム
 
 #### 2. 愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次)
 
-# Activity
+## Activity
 ### 2022.04~2023.06
 #### - 愛媛大学 学生による調査・研究プロジェクト（プロジェクトE）「SNSでの投稿履歴から見える相手の気持ち」[[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
 <!--

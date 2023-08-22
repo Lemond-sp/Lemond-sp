@@ -35,7 +35,7 @@ NLP若手の会第18回シンポジウム, August 2023. [to appear] <!-- \[[PDF]
 #### 1. 愛媛大学工学部工学科コンピュータ科学コース優秀学生(3 年次)
 
 ### 2022
-#### 1. NLP若手の会(YANS)第17回シンポジウム(2022)-hackathon-teamA-Natural-
+#### 1. NLP若手の会第17回シンポジウム(2022)-hackathon-teamA-Natural-
 
 #### :trophy:リーダーボード1位・最終評価1位・Applied Scientist賞(Amazon Web Service Japan LLC.)[[link](https://yans.anlp.jp/entry/yans2022report)]
 
@@ -43,7 +43,7 @@ NLP若手の会第18回シンポジウム, August 2023. [to appear] <!-- \[[PDF]
 
 ## Activity
 ### 2022.04~2023.06
-#### - 愛媛大学 学生による調査・研究プロジェクト（プロジェクトE）「SNSでの投稿履歴から見える相手の気持ち」[[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
+#### - 愛媛大学 学生による調査・研究プロジェクト「SNSでの投稿履歴から見える相手の気持ち」[[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
 <!--
 **Lemond-sp/Lemond-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

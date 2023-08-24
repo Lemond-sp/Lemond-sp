@@ -32,14 +32,14 @@ NLP若手の会第18回シンポジウム, August 2023. [to appear] <!-- \[[PDF]
 ## Achievement
 
 ### 2023
-- 愛媛大学工学部工学科コンピュータ科学コース優秀学生(3 年次)
+- 愛媛大学工学部工学科コンピュータ科学コース優秀学生(3 年次)[[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
 
 ### 2022
 - NLP若手の会第17回シンポジウム(2022)-ハッカソン部門-teamA-Natural-
 
   :trophy:リーダーボード1位・最終評価1位・Applied Scientist賞(Amazon Web Service Japan LLC.)[[link](https://yans.anlp.jp/entry/yans2022report)]
 
-- 愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次)
+- 愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次)[[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
 
 ## Activity
 ### 2022.04~2023.06

@@ -11,7 +11,7 @@
 
 ## Research ＆ Interest
 - NLProc
-- 表現学習
+- 表現学習（埋め込み表現）
 - 対話システム
 - 感情分析
 

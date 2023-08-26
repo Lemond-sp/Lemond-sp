@@ -7,7 +7,7 @@
 
 :postbox:reon@ai.ac.ehime-u.ac.jp
 
-:bug:Python PyTorch C Racket
+:bug:Python PyTorch C PHP Racket(関数型プログラミング)
 
 ## Research ＆ Interest
 - NLProc

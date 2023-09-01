@@ -27,7 +27,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 
 - 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
-NLP若手の会第18回シンポジウム, August 2023.[奨励賞] [to appear] <!-- \[[PDF](URL)\] -->
+NLP若手の会第18回シンポジウム, August 2023.[奨励賞] [[Poster](https://github.com/Lemond-sp/Lemond-sp/blob/main/yans23_poster_kondo.pdf)] <!-- \[[PDF](URL)\] -->
 
 ## Achievement
 

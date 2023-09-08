@@ -19,7 +19,7 @@
 ## Domestic Conference
 - 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話システムへのキャラクタ性の付与. <br>
-第22回情報科学技術フォーラム, September 2023. [to appear] <!-- \[[PDF](URL)\] -->
+第22回情報科学技術フォーラム, September 2023. [[PDF](https://moguranosenshi.sakura.ne.jp/publications/fit2023-kondo.pdf)] <!-- \[[PDF](URL)\] -->
 
 - **梶川 怜恩**, 梶原 智之. <br>
 マルチソース入力を用いた多言語文符号化器による感情分析. <br>

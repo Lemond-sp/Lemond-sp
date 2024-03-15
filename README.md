@@ -32,7 +32,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 ## Journal
 - 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話へのキャラクタ性の付与. <br>
-情報処理学会論文誌, Vol.65, No.3, pp.xxx-xxx, March 2024. (to appear)
+情報処理学会論文誌, Vol.65, No.3, pp.xxx-xxx, March 2024. [[link]([https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8))]
 
 ## Achievement
 

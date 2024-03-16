@@ -35,12 +35,11 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. [[link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)]
 
 ## Achievement
-
 ### 2023
 - NLP若手の会第18回シンポジウム(YANS2023) 奨励賞
   > 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
   > 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
-  > NLP若手の会第18回シンポジウム, August 2023.
+  > NLP若手の会第18回シンポジウム, August 2023. [[link](https://yans.anlp.jp/entry/award)]
 
 - 愛媛大学工学部工学科コンピュータ科学コース優秀学生(3 年次) [[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
 

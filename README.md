@@ -51,7 +51,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 - 愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次) [[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
 
 ## Internship
-### 2024.02
+### 2024.03
 - ユーザベース（UB Research）（2週間）[[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
 ## Activity
 ### 2023.09

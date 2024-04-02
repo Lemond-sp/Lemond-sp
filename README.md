@@ -52,7 +52,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 
 ## Internship
 ### 2024.02
-- ユーザベース（UB Research）短期インターン（2週間）[[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
+- ユーザベース（UB Research）（2週間）[[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
 ## Activity
 ### 2023.09
 - Teaching Assistant（研究インターン：感情分析）, TA

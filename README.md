@@ -50,12 +50,15 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 
 - 愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次) [[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
 
+## Internship
+### 2024.02
+- ユーザベース（UB Research）短期インターン（2週間）[[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
 ## Activity
 ### 2023.09
 - Teaching Assistant（研究インターン：感情分析）, TA
 
 ### 2022.04~2023.06
-- 愛媛大学 学生による調査・研究プロジェクト「SNSでの投稿履歴から見える相手の気持ち」研究費：10万円 [[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
+- 愛媛大学 学生による調査・研究プロジェクト「SNSでの投稿履歴から見える相手の気持ち」研究費：10万円 [[link]()]
 <!--
 **Lemond-sp/Lemond-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

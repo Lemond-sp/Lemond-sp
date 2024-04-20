@@ -66,7 +66,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 - Teaching Assistant（研究インターン：感情分析）, TA
 
 ### 2022.04~2023.06
-- 愛媛大学 学生による調査・研究プロジェクト「SNSでの投稿履歴から見える相手の気持ち」研究費：10万円 [[link]()]
+- 愛媛大学 学生による調査・研究プロジェクト「SNSでの投稿履歴から見える相手の気持ち」研究費：10万円 [[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
 <!--
 **Lemond-sp/Lemond-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

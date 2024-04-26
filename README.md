@@ -37,6 +37,11 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
 NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github.com/Lemond-sp/Lemond-sp/blob/main/yans23_poster_kondo.pdf)] <!-- \[[PDF](URL)\] -->
 
+## International Conference
+- Reon Kajikawa, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
+Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation. <br>
+NAACL SRW 2024.[to appear]
+
 ## Journal
 - 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話へのキャラクタ性の付与. <br>

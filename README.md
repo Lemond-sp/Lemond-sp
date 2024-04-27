@@ -40,7 +40,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 ## International Conference
 - **Reon Kajikawa**, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation. <br>
-NAACL SRW 2024.[to appear]
+NAACL SRW 2024.[[to appear](https://naacl2024-srw.github.io/)]
 
 ## Journal
 - 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>

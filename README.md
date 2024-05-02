@@ -16,6 +16,17 @@
 - 感情分析
 
 ## Publication
+
+## Journal
+- 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
+スタイル変換による雑談対話へのキャラクタ性の付与. <br>
+情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. [[link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)]
+
+## International Conference
+- **Reon Kajikawa**, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
+Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation. <br>
+NAACL SRW 2024.[[to appear](https://naacl2024-srw.github.io/)]
+
 ## Domestic Conference
 - **梶川 怜恩**, 山田 啓一朗, 梶原 智之, 二宮 崇. <br>
 機械翻訳を用いた多言語文符号化器のマルチソース入力によるテキスト分類. <br>
@@ -36,16 +47,6 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 - 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
 NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github.com/Lemond-sp/Lemond-sp/blob/main/yans23_poster_kondo.pdf)] <!-- \[[PDF](URL)\] -->
-
-## International Conference
-- **Reon Kajikawa**, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
-Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation. <br>
-NAACL SRW 2024.[[to appear](https://naacl2024-srw.github.io/)]
-
-## Journal
-- 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
-スタイル変換による雑談対話へのキャラクタ性の付与. <br>
-情報処理学会論文誌, Vol.65, No.3, pp.657-666, March 2024. [[link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=233361&item_no=1&page_id=13&block_id=8)]
 
 ## Achievement
 ### 2023

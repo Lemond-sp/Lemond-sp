@@ -66,7 +66,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 
 ## Internship
 ### 2024.03
-- ユーザベース（UB Research）（2週間）[[link](https://tech.uzabase.com/entry/2024/04/02/173958)]
+- ユーザベース（UB Research）（2週間）[[Tech Blog](https://tech.uzabase.com/entry/2024/04/02/173958)]
 ## Activity
 ### 2023.09
 - Teaching Assistant（研究インターン：感情分析）, TA

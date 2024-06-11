@@ -29,11 +29,11 @@ NAACL SRW 2024.[[to appear](https://naacl2024-srw.github.io/)]
 ## Domestic Conference
 - **梶川 怜恩**, 山田 啓一朗, 梶原 智之, 二宮 崇. <br>
 機械翻訳を用いた多言語文符号化器のマルチソース入力によるテキスト分類. <br>
-人工知能学会第38回全国大会(JSAI2024), 4N3-GS-6-03, May 2024. [[to apper](https://confit.atlas.jp/guide/event/jsai2024/subject/4N3-GS-6-03/tables?cryptoId=)] <!-- \[[PDF](URL)\] -->
+人工知能学会第38回全国大会(JSAI2024), 4N3-GS-6-03, May 2024. [[PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4N3GS603/_article/-char/ja/)] <!-- \[[PDF](URL)\] -->
 
 - 近藤 里咲, 寺面 杏優, **梶川 怜恩**, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
 テキスト正規化による日本語感情分析の性能改善. <br>
-人工知能学会第38回全国大会(JSAI2024), 4Xin2-12, May 2024. [[to apper](https://confit.atlas.jp/guide/event/jsai2024/subject/4Xin2-12/tables?cryptoId=)] <!-- \[[PDF](URL)\] -->
+人工知能学会第38回全国大会(JSAI2024), 4Xin2-12, May 2024. [[PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4Xin212/_article/-char/ja/)] <!-- \[[PDF](URL)\] -->
 
 - 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話システムへのキャラクタ性の付与. <br>

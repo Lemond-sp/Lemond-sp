@@ -19,7 +19,7 @@
 ## International Conference
 - **Reon Kajikawa**, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation. <br>
-NAACL SRW, June 2024. (acceptance rate: 59.7%) [[link](https://aclanthology.org/2024.naacl-srw.24/)] 
+NAACL SRW, June 2024. (In-person Poster) [[link](https://aclanthology.org/2024.naacl-srw.24/)] 
 
 ## Journal
 - 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
@@ -74,7 +74,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 - 愛媛大学 学生による調査・研究プロジェクト「SNSでの投稿履歴から見える相手の気持ち」研究費：10万円 [[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
 <!--
 **Lemond-sp/Lemond-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+NAACL SRW24 (acceptance rate: 59.7%)
 Here are some ideas to get you started:
 [![LEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemond-sp&theme=vue-dark&show_icons=true)](https://github.com/Lemond-sp/)
 

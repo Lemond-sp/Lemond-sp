@@ -72,6 +72,10 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 
 ### 2022.04 - 2023.06
 - 愛媛大学 学生による調査・研究プロジェクト「SNSでの投稿履歴から見える相手の気持ち」研究費：10万円 [[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
+
+## Scholarship
+### 2024.08
+- 愛媛大学基金奨学金「太陽石油奨学金」（500,000円） [[link](https://www.taiyooil.net/news/2024/23-096.html)]
 <!--
 **Lemond-sp/Lemond-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 NAACL SRW24 (acceptance rate: 59.7%)

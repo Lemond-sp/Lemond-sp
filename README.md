@@ -29,11 +29,11 @@ NAACL SRW, June 2024. (In-person Poster) [[link](https://aclanthology.org/2024.n
 ## Domestic Conference
 - **梶川 怜恩**, 山田 啓一朗, 梶原 智之, 二宮 崇. <br>
 機械翻訳を用いた多言語文符号化器のマルチソース入力によるテキスト分類. <br>
-人工知能学会第38回全国大会(JSAI2024), 4N3-GS-6-03, May 2024. [[link](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4N3GS603/_article/-char/ja/)] <!-- \[[PDF](URL)\] -->
+人工知能学会第38回全国大会 (JSAI2024), 4N3-GS-6-03, May 2024. [[link](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4N3GS603/_article/-char/ja/)] <!-- \[[PDF](URL)\] -->
 
 - 近藤 里咲, 寺面 杏優, **梶川 怜恩**, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
 テキスト正規化による日本語感情分析の性能改善. <br>
-人工知能学会第38回全国大会(JSAI2024), 4Xin2-12, May 2024. [[PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4Xin212/_article/-char/ja/)] <!-- \[[PDF](URL)\] -->
+人工知能学会第38回全国大会 (JSAI2024), 4Xin2-12, May 2024. [[PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4Xin212/_article/-char/ja/)] <!-- \[[PDF](URL)\] -->
 
 - 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
 スタイル変換による雑談対話システムへのキャラクタ性の付与. <br>
@@ -54,14 +54,14 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
   > 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
   > NLP若手の会第18回シンポジウム, August 2023. [[link](https://yans.anlp.jp/entry/award)]
 
-- 愛媛大学工学部工学科コンピュータ科学コース優秀学生(3 年次) [[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
+- 愛媛大学工学部工学科コンピュータ科学コース優秀学生 (3 年次) [[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
 
 ### 2022
-- NLP若手の会第17回シンポジウム(2022)-ハッカソン部門-teamA-Natural-
+- NLP若手の会第17回シンポジウム (2022)-ハッカソン部門-teamA-Natural-
 
-  :trophy:リーダーボード1位・最終評価1位・Applied Scientist賞(Amazon Web Service Japan LLC.) [[link](https://yans.anlp.jp/entry/yans2022report)]
+  :trophy:リーダーボード1位・最終評価1位・Applied Scientist賞 (Amazon Web Service Japan LLC.) [[link](https://yans.anlp.jp/entry/yans2022report)]
 
-- 愛媛大学工学部工学科コンピュータ科学コース優秀学生(1~2 年次) [[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
+- 愛媛大学工学部工学科コンピュータ科学コース優秀学生 (1~2 年次) [[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
 
 ## Internship
 ### 2024.03 - 2024.04

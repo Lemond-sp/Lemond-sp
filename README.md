@@ -66,9 +66,13 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 ## Internship
 ### 2024.03 - 2024.04
 - ユーザベース（UB Research） Short Internship [[Tech Blog](https://tech.uzabase.com/entry/2024/04/02/173958)]
+
 ## Activity
+### 2024.06 - 2024.08
+- Teaching Assistant（愛媛大学 情報工学実験Ⅳ：コンペ用のベースライン作成） [[Syllabus](https://campus.ehime-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx)]
+
 ### 2023.09
-- Teaching Assistant（研究インターン：感情分析）, TA
+- Teaching Assistant（研究インターン：感情分析） [[link](https://x.com/1sKeiichiro/status/1698184303849680958/photo/1)]
 
 ### 2022.04 - 2023.06
 - 愛媛大学 学生による調査・研究プロジェクト「SNSでの投稿履歴から見える相手の気持ち」研究費：10万円 [[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]

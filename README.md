@@ -49,7 +49,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 
 ## Achievement
 ### 2023
-- NLP若手の会第18回シンポジウム(YANS2023) 奨励賞
+- NLP若手の会第18回シンポジウム(YANS2023) 第一著者奨励賞
   > 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
   > 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
   > NLP若手の会第18回シンポジウム, August 2023. [[link](https://yans.anlp.jp/entry/award)]

@@ -65,7 +65,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 
 ## Internship
 ### 2024.08 - Present
-- Cierpa & Co., Inc（AILab） Engineering Intern [[link](https://herp.careers/v1/cierpa0905/JBaL-xUsJ7gk)]
+- Cierpa & Co, Inc（AILab） Engineering Intern [[link](https://herp.careers/v1/cierpa0905/JBaL-xUsJ7gk)]
 
 ### 2024.03 - 2024.04
 - ユーザベース（UB Research） Short Internship [[Tech Blog](https://tech.uzabase.com/entry/2024/04/02/173958)]

@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 :mortar_board:梶川 怜恩 (Reon Kajikawa)
 
 🖥️愛媛大学大学院 理工学研究科 数理情報 M1
@@ -14,7 +14,7 @@
 - 表現学習（埋め込み表現）
 - 言語モデル
 
-## Publication
+# Publication
 
 ## International Conference
 - **Reon Kajikawa**, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
@@ -49,7 +49,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
 NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github.com/Lemond-sp/Lemond-sp/blob/main/yans23_poster_kondo.pdf)] <!-- \[[PDF](URL)\] -->
 
-## Achievement
+# Achievement
 ### 2023
 - NLP若手の会第18回シンポジウム(YANS2023) 第一著者奨励賞
   > 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
@@ -65,14 +65,14 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 
 - 愛媛大学工学部工学科コンピュータ科学コース優秀学生 (1~2 年次) [[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
 
-## Internship
+# Internship
 ### 2024.08 - Present
 - Cierpa & Co, Inc（AILab） Engineering Intern [[link](https://herp.careers/v1/cierpa0905/JBaL-xUsJ7gk)]
 
 ### 2024.03 - 2024.04
 - ユーザベース（UB Research） Short Internship [[Tech Blog](https://tech.uzabase.com/entry/2024/04/02/173958)]
 
-## Activity
+# Activity
 ### 2024.06 - 2024.08
 - Teaching Assistant（愛媛大学 情報工学実験Ⅳ：NLPコンペ用のベースライン作成） [[Syllabus](https://campus.ehime-u.ac.jp/Portal/Public/Syllabus/SyllabusSearchStart.aspx?lct_year=2024&lct_cd=B5302&je_cd=1)]
 
@@ -82,7 +82,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 ### 2022.04 - 2023.06
 - 愛媛大学 学生による調査・研究プロジェクト「SNSでの投稿履歴から見える相手の気持ち」研究費：10万円 [[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
 
-## Scholarship
+# Scholarship
 ### 2024.08
 - 愛媛大学基金奨学金「太陽石油奨学金」（500,000円） [[link](https://www.taiyooil.net/news/2024/23-096.html)]
 <!--

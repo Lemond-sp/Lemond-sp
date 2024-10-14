@@ -77,7 +77,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 - Teaching Assistant（愛媛大学 情報工学実験Ⅳ：NLPコンペ用のベースライン作成） [[Syllabus](https://campus.ehime-u.ac.jp/Portal/Public/Syllabus/SyllabusSearchStart.aspx?lct_year=2024&lct_cd=B5302&je_cd=1)]
 
 ### 2023.10 - 2024.02
-- Teaching Assistant（愛媛大学 学部共通PBL：自然言語処理技術を用いた自動翻訳機や対話システムの開発） [[Syllabus](https://campus.ehime-u.ac.jp/Portal/Public/Syllabus/SyllabusSearchStart.aspx?lct_year=2023&lct_cd=25094&je_cd=1)]
+- Teaching Assistant（愛媛大学 学部共通PBL：自然言語処理技術を用いたシステムの開発） [[Syllabus](https://campus.ehime-u.ac.jp/Portal/Public/Syllabus/SyllabusSearchStart.aspx?lct_year=2023&lct_cd=25094&je_cd=1)]
 ### 2023.09
 - Teaching Assistant（研究インターン：感情分析） [[link](https://x.com/1sKeiichiro/status/1698184303849680958/photo/1)]
 

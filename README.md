@@ -51,14 +51,14 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 
 # Achievement
 ### 2024
-- 人工知能学会第38回全国大会 (JSAI2024) 全国大会優秀賞
+- 人工知能学会第38回全国大会 (JSAI2024) 全国大会優秀賞 (co-author)
   
   > 近藤 里咲, 寺面 杏優, **梶川 怜恩**, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
   > テキスト正規化による日本語感情分析の性能改善. <br>
   > 人工知能学会第38回全国大会 (JSAI2024), 4Xin2-12, May 2024. [[link](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/)]
   
 ### 2023
-- NLP若手の会第18回シンポジウム(YANS2023) 第一著者奨励賞
+- NLP若手の会第18回シンポジウム(YANS2023) 第一著者奨励賞 (co-author)
   > 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
   > 雑談対話にキャラクタ性を付与するためのスタイル変換. <br>
   > NLP若手の会第18回シンポジウム, August 2023. [[link](https://yans.anlp.jp/entry/award)]

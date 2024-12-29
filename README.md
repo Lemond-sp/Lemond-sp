@@ -80,6 +80,9 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 - ユーザベース（UB Research） Short Internship [[Tech Blog](https://tech.uzabase.com/entry/2024/04/02/173958)]
 
 # Activity
+### 2024.12
+- Teaching Assistant（松山南高等学校スーパーサイエンスハイスクール事業支援） [[link](https://x.com/EhimeNLP/status/1871456957984604492)]
+
 ### 2024.10 - 2024.11
 - Teaching Assistant（愛媛大学 工学リテラシーⅢ：データサイエンスの基礎講義） [[Syllabus](https://campus.ehime-u.ac.jp/Portal/Public/Syllabus/SyllabusSearchStart.aspx?lct_year=2024&lct_cd=C5001&je_cd=1)]
 

@@ -31,7 +31,7 @@ NAACL SRW, June 2024. (In-person Poster) [[link](https://aclanthology.org/2024.n
 
 - **梶川 怜恩**, 神田 峻介, 赤部 晃一, 小田 悠介. <br>
 ベクトル検索におけるテキスト構造化の効果分析 <br>
-言語処理学会第31回年次大会（NLP2025）, pp.XXX-XXX, March 2025. [[to appear]]
+言語処理学会第31回年次大会（NLP2025）, pp.3269-3274, March 2025. [[PDF](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P8-13.pdf)]
 
 - **梶川 怜恩**, 山田 啓一朗, 梶原 智之, 二宮 崇. <br>
 機械翻訳を用いた多言語文符号化器のマルチソース入力によるテキスト分類. <br>

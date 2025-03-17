@@ -104,7 +104,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 - Teaching Assistant（研究インターン：感情分析） [[link](https://x.com/1sKeiichiro/status/1698184303849680958/photo/1)]
 
 ### 2022.04 - 2023.06
-- 愛媛大学 学生による調査・研究プロジェクト「SNSでの投稿履歴から見える相手の気持ち」研究費：10万円 [[link](https://www.ehime-u.ac.jp/tp_20230626_projecte/)]
+- 愛媛大学 学生による調査・研究プロジェクト「SNSでの投稿履歴から見える相手の気持ち」研究費：10万円 [[link](https://www.ehime-u.ac.jp/tp_2200602_epd)]
 
 # Scholarship
 ### 2024.08

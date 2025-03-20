@@ -17,13 +17,14 @@
 # Publication
 
 ## International Conference
-- **Reon Kajikawa**, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
-Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation. <br>
-NAACL SRW, June 2024. (In-person Poster) [[link](https://aclanthology.org/2024.naacl-srw.24/)]
 
 - Risa Kondo, Ayu Teramen, **Reon Kajikawa**, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara. <br>
 Text Normalization for Japanese Sentiment Analysis. <br>
 W-NUT 2025, pp.xxx-xxx, May 2025. (to appear)
+
+- **Reon Kajikawa**, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
+Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation. <br>
+NAACL SRW, June 2024. (In-person Poster) [[link](https://aclanthology.org/2024.naacl-srw.24/)]
 
 ## Journal
 - 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>

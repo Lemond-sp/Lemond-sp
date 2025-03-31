@@ -1,7 +1,7 @@
 # Introduction
 :mortar_board:梶川 怜恩 (Reon Kajikawa)
 
-🖥️愛媛大学大学院 理工学研究科 数理情報 M1
+🖥️愛媛大学大学院 理工学研究科 数理情報 M2
 
 :microscope:[人工知能研究室 自然言語処理グループ](https://sites.google.com/view/ehime-nlp/)
 

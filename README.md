@@ -85,7 +85,10 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 
 - 愛媛大学工学部工学科コンピュータ科学コース優秀学生 (1~2 年次) [[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
 
-# Work Experience
+# Experience
+### 2025.05 - Present
+- NII/LLMC（llm-jp） Research Assistant [[link](https://llm-jp.nii.ac.jp/)]
+
 ### 2024.08 - Present
 - Cierpa & Co, Inc（AILab） Engineering Intern [[link](https://herp.careers/v1/cierpa0905/JBaL-xUsJ7gk)]
 

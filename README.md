@@ -23,7 +23,7 @@
 
 - Risa Kondo, Ayu Teramen, **Reon Kajikawa**, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara. <br>
 Text Normalization for Japanese Sentiment Analysis. <br>
-W-NUT 2025, pp.xxx-xxx, May 2025. (to appear)
+W-NUT 2025, pp.149–157, May 2025. (co-author) [[link](https://aclanthology.org/2025.wnut-1.16/)]
 
 - **Reon Kajikawa**, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation. <br>

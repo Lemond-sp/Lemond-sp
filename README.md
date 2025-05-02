@@ -13,9 +13,9 @@
 
 # Research ＆ Interest
 - NLProc
-- 表現学習（埋め込み表現）
-- 言語モデル
 - マルチモーダル文書理解
+- 埋め込み表現
+- 言語モデル
 
 # Publication
 

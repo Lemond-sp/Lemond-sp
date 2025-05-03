@@ -20,14 +20,16 @@
 # Publication
 
 ## International Conference
-
-- Risa Kondo, Ayu Teramen, **Reon Kajikawa**, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara. <br>
-Text Normalization for Japanese Sentiment Analysis. <br>
-W-NUT 2025, pp.149–157, May 2025. (co-author) [[link](https://aclanthology.org/2025.wnut-1.16/)]
+### first author
 
 - **Reon Kajikawa**, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation. <br>
 NAACL SRW, June 2024. (In-person Poster) [[link](https://aclanthology.org/2024.naacl-srw.24/)]
+
+### co-author
+- Risa Kondo, Ayu Teramen, **Reon Kajikawa**, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara. <br>
+Text Normalization for Japanese Sentiment Analysis. <br>
+W-NUT 2025, pp.149–157, May 2025. (In-person Poster) [[link](https://aclanthology.org/2025.wnut-1.16/)]
 
 ## Journal
 - 近藤 里咲, **梶川 怜恩**, 梶原 智之, 二宮 崇. <br>
@@ -36,7 +38,6 @@ NAACL SRW, June 2024. (In-person Poster) [[link](https://aclanthology.org/2024.n
 
 ## Domestic Conference
 ### first author
-
 - **梶川 怜恩**, 神田 峻介, 赤部 晃一, 小田 悠介. <br>
 ベクトル検索におけるテキスト構造化の効果分析 <br>
 言語処理学会第31回年次大会（NLP2025）, pp.3269-3274, March 2025. [[PDF](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P8-13.pdf)]

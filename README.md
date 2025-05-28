@@ -88,7 +88,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 
 # Experience
 ### 2025.05 - Present
-- NII/LLMC（LLM-jp） Research Assistant [[link](https://llm-jp.nii.ac.jp/)]
+- NII/LLMC（LLM-jp） Research Assistant @Multimodal WG [[link](https://llm-jp.nii.ac.jp/)]
 
 ### 2024.08 - Present
 - Cierpa & Co, Inc（AILab） Engineering Intern [[link](https://herp.careers/v1/cierpa0905/JBaL-xUsJ7gk)]

@@ -97,6 +97,9 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 - ユーザベース（UB Research） Short Internship [[Tech Blog](https://tech.uzabase.com/entry/2024/04/02/173958)]
 
 # Activity
+### 2024.12 - 2025.06
+- Teaching Assistant（言語処理100本ノック） [[link](https://nlp100.github.io/2025/ja/index.html)]
+
 ### 2024.12
 - Teaching Assistant（松山南高等学校スーパーサイエンスハイスクール事業支援） [[link](https://x.com/EhimeNLP/status/1871456957984604492)]
 

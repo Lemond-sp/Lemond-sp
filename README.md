@@ -121,6 +121,10 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 ### 2024.08
 - 愛媛大学基金奨学金「太陽石油奨学金」（500,000円） [[link](https://www.taiyooil.net/news/2024/23-096.html)]
 <!--
+- 横山泰知, 戒能大翔, 梶川怜恩, 二宮崇, 後藤功雄, 石渡祥之佑, 能地宏. <br>
+場面説明を活用したマルチモーダル漫画翻訳の精度向上に向けて. <br>
+NLP若手の会第20回シンポジウム, August 2025. [[link]()]
+
 **Lemond-sp/Lemond-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 NAACL SRW24 (acceptance rate: 59.7%)
 Here are some ideas to get you started:

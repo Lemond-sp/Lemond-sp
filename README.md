@@ -53,7 +53,7 @@ NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github
 ### co-author
 - 横山 泰知, 戒能 大翔, **梶川 怜恩**, 二宮 崇, 後藤 功雄, 石渡 祥之佑, 能地 宏. <br>
 場面説明を活用したマルチモーダル漫画翻訳の精度向上に向けて. <br>
-NLP若手の会第20回シンポジウム, September 2025. [[to appear]()]
+NLP若手の会第20回シンポジウム, September 2025. [[Poster](https://github.com/Lemond-sp/Lemond-sp/blob/main/yans25_poster_yokoyama.pdf)]
 
 - 近藤 里咲, 寺面 杏優, **梶川 怜恩**, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一. <br>
 テキスト正規化による日本語感情分析の性能改善. <br>

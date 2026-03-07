@@ -40,7 +40,7 @@ W-NUT 2025, pp.149–157, May 2025. (In-person Poster) [[link](https://aclanthol
 ### first author
 - **梶川 怜恩**, 中山 功太, 小田 悠介, 神田 峻介, 赤部 晃一, 二宮 崇, 岡崎 直観. <br>
 Omni-JDocVQA: 多種多様な文書を含んだ日本語視覚文書理解ベンチマークの構築.  <br>
-言語処理学会第32回年次大会（NLP2026）, To Appear.
+言語処理学会第32回年次大会（NLP2026）, pp.729-734, March 2026. [[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C2-24.pdf)]
 
 - **梶川 怜恩**, 神田 峻介, 赤部 晃一, 小田 悠介. <br>
 ベクトル検索におけるテキスト構造化の効果分析. <br>
@@ -55,17 +55,17 @@ Omni-JDocVQA: 多種多様な文書を含んだ日本語視覚文書理解ベン
 NLP若手の会第18回シンポジウム, August 2023. [[Poster](https://github.com/Lemond-sp/Lemond-sp/blob/main/yans23_poster.pdf)] <!-- \[[PDF](URL)\] -->
 
 ### co-author
-- 荒川花蓮, **梶川 怜恩**, 二宮 崇, 後藤 功雄. <br>
-文学的表現に特化した英日文学翻訳の評価データセットの構築に向けて.  <br>
-言語処理学会第32回年次大会（NLP2026）, To Appear.
-
 - 濱本惇之介, **梶川 怜恩**, 二宮 崇, 後藤 功雄, 石渡 祥之佑, 能地 宏. <br>
 視覚言語モデルは漫画のオノマトペを翻訳できるか？.  <br>
-言語処理学会第32回年次大会（NLP2026）, To Appear.
+言語処理学会第32回年次大会（NLP2026）, pp.4093-4098, March 2026. [[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C9-2.pdf)]
 
 - 横山 泰知, 戒能 大翔, **梶川 怜恩**, 二宮 崇, 後藤 功雄, 石渡 祥之佑, 能地 宏. <br>
 場面説明を活用したマルチモーダル漫画翻訳.  <br>
-言語処理学会第32回年次大会（NLP2026）, To Appear.
+言語処理学会第32回年次大会（NLP2026）, pp.4174-4179, March 2026. [[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C9-16.pdf)]
+
+- 荒川花蓮, **梶川 怜恩**, 二宮 崇, 後藤 功雄. <br>
+文学的表現に特化した英日文学翻訳の評価データセットの構築に向けて.  <br>
+言語処理学会第32回年次大会（NLP2026）, pp.4216-4220, March 2026. [[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C9-23.pdf)]
 
 - 近藤 里咲, 寺面 杏優, 堀口 航輝, **梶川 怜恩**, 鈴木 陽也, 宮内 裕人, 山内 洋輝, 秋山 和輝, 梶原 智之, 二宮 崇, Chenhui Chu, 武村 紀子, 早志 英朗, 中島 悠太, 長原 一. <br>
 日本語SNSのためのテキスト正規化および感情分析のデータセット. <br>

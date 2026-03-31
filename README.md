@@ -1,11 +1,9 @@
 # Introduction
 :mortar_board:梶川 怜恩 (Reon Kajikawa)
 
-🖥️愛媛大学大学院 理工学研究科 数理情報 M2
+🖥️修士（数理情報学）
 
-:microscope:[人工知能研究室 自然言語処理グループ](https://sites.google.com/view/ehime-nlp/)
-
-:postbox:reon@ai.ac.ehime-u.ac.jp
+:postbox:reon.kajikawa@gmail.com
 
 :page_facing_up:[cv (Japanese)](https://docs.google.com/document/d/1SS7ecj1uiv5ffZbHOsUTqOoVO4AYAOjbAJFFwmlykCQ/edit?usp=sharing)
 
@@ -13,9 +11,9 @@
 
 # Research ＆ Interest
 - NLProc
-- マルチモーダル文書理解
+- Vision & Language
+- 文書理解
 - 埋め込み表現
-- 言語モデル
 
 # Publication
 

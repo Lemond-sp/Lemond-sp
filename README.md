@@ -1,7 +1,5 @@
 # Introduction
-:mortar_board:梶川 怜恩 (Reon Kajikawa)
-
-🖥️修士（数理情報学）
+:mortar_board:修士（数理情報学）
 
 :postbox:reon.kajikawa@gmail.com
 

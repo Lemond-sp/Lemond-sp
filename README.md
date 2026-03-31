@@ -5,8 +5,6 @@
 
 :page_facing_up:[cv (Japanese)](https://docs.google.com/document/d/1SS7ecj1uiv5ffZbHOsUTqOoVO4AYAOjbAJFFwmlykCQ/edit?usp=sharing)
 
-:bug:Python PyTorch C
-
 # Research ＆ Interest
 - NLProc
 - Vision & Language

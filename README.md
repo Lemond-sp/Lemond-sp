@@ -24,11 +24,11 @@
 
 - **Reon Kajikawa**, Kouta Nakayama, Yusuke Oda, Shunsuke Kanda, Koichi Akabe, Takashi Ninomiya, Naoaki Okazaki. <br>
 Omni-JDocVQA: A Comprehensive Japanese Benchmark for Visual Document Understanding via Situation-Driven QA Generation. <br>
-EACL 2027 Findings, March 2027. [link]
+EACL 2027 Findings（Acceptance rate: 24.6%）, March 2027. [link]
 
 - **Reon Kajikawa**, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation. <br>
-NAACL 2024 SRW, June 2024. (In-person Poster) [[link](https://aclanthology.org/2024.naacl-srw.24/)]
+NAACL 2024 SRW, June 2024. (Acceptance rate: 59.7%) [[link](https://aclanthology.org/2024.naacl-srw.24/)]
 
 ### co-author
 - Taichi Yokoyama, Hiroto Kaino, **Reon Kajikawa**, Takashi Ninomiya, Isao Goto, Shonosuke Ishiwatari, Hiroshi Noji. <br>

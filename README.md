@@ -28,7 +28,7 @@ EACL 2027 Findings（Acceptance rate: 24.6%）, March 2027. [link]
 
 - **Reon Kajikawa**, Keiichiro Yamada, Tomoyuki Kajiwara, Takashi Ninomiya. <br>
 Multi-Source Text Classification for Multilingual Sentence Encoder with Machine Translation. <br>
-NAACL 2024 SRW, June 2024. (Acceptance rate: 59.7%) [[link](https://aclanthology.org/2024.naacl-srw.24/)]
+NAACL 2024 SRW（Acceptance rate: 59.7%）, June 2024. [[link](https://aclanthology.org/2024.naacl-srw.24/)]
 
 ### co-author
 - Taichi Yokoyama, Hiroto Kaino, **Reon Kajikawa**, Takashi Ninomiya, Isao Goto, Shonosuke Ishiwatari, Hiroshi Noji. <br>
